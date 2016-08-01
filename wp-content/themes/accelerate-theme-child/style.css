@@ -81,3 +81,9 @@ div.case-study-images img {
 	border: 1px solid #dddddd;
 }
 
+/* Case Studies */
+
+li.individual-featured-work {
+	list-style-type: none;
+	display: inline-block;
+}
